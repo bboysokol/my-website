@@ -1,0 +1,2 @@
+157.55.39.25 - - [23/Apr/2018:06:16:06 +0200] "GET /robots.txt HTTP/1.1" 404 2576 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+157.55.39.72 - - [23/Apr/2018:06:16:10 +0200] "GET /sokol.png HTTP/1.1" 200 129279 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"

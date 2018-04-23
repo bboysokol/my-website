@@ -1,0 +1,38 @@
+.view {
+
+   float: left;
+   overflow: hidden;
+   position: relative;
+   text-align: center;
+   cursor: default;
+}
+.view .mask,.view .content {
+   height:100%;
+   width:100%;
+   position: absolute;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+}
+.view img {
+   display: block;
+   position: relative;
+}
+.view h2 {
+   text-transform: uppercase;
+   color: #fff;
+   text-align: center;
+   position: relative;
+   font-size: 12px;
+   padding: 10px;
+   background: rgba(0, 0, 0, 0.8);
+   margin-top:40px;
+   
+}
+.view p {
+   font-family: Raleway, serif;
+   font-size: 15px;
+   position: relative;
+   color: #fff;
+   text-align: center;
+}
